@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/resource/js/components/category/list.js": "/js/resource/js/components/category/list.js",
+    "/js/resource/js/components/category/add.js": "/js/resource/js/components/category/add.js",
+    "/js/resource/js/components/category/edit.js": "/js/resource/js/components/category/edit.js",
+    "/js/resource/js/components/book/edit.js": "/js/resource/js/components/book/edit.js",
+    "/css/app.css": "/css/app.css",
+    "/js/resource/js/components/book/show.js": "/js/resource/js/components/book/show.js",
+    "/js/resource/js/components/book/info.js": "/js/resource/js/components/book/info.js"
+}
